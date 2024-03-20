@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Stock trading application",
+      "imageSrc": "projects/stock.png",
+      "description": "This is a project made to learn advanced features such as caching, replication, fault tolerance, leader election.",
+      "skills": ["Flask", "Python", "AWS"]
+    },
+    {
+      "title": "Weatherly app",
+      "imageSrc": "projects/weather.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React"]
+    },
+    {
+      "title": "EleNA",
+      "imageSrc": "projects/elena.png",
+      "description": "Main feature of this project is to render routes that minimize or maximize elevation between source and destination.",
+      "skills": ["React", "Python", "Flask"]
+    }
+  ]

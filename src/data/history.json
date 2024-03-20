@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Software Development Intern",
+      "organisation": "Our National Conversation",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on news collection", "Optimized news aggregator API"],
+      "imageSrc": "history/onc.png"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "organisation": "Robert Bosch",
+      "startDate": "Sept, 2018",
+      "endDate": "Aug, 2022",
+      "experiences": ["Web application development", "Python automation scripting"],
+      "imageSrc": "history/bosch.png"
+    },
+    {
+      "role": "Research Assistant",
+      "organisation": "Indian Institute of Science",
+      "startDate": "June, 2016",
+      "endDate": "July, 2016",
+      "experiences": [
+        "Worked on python application",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/iisc.jpg"
+    }
+  ]
